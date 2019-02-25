@@ -1,3 +1,8 @@
+''' Websites that are useful:
+http://blog.varunajayasiri.com/ml/transformer.html
+http://jalammar.github.io/illustrated-transformer/
+'''
+
 from sublayers import *
 
 import numpy as np
